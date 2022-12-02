@@ -1,13 +1,5 @@
 <template>
-  <div class = "main">
+  <div>
     <slot />
   </div>
 </template>
-
-<style>
-  .main {
-    color: black;
-    background-color: red;
-    background-image:url(fond.png);
-  }
-</style>
