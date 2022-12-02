@@ -4,7 +4,7 @@ export default defineNuxtConfig({
         '@/assets/styles/reset.css',
     ],
     runtimeConfig: {
-        apiSecret: '132',
+        apiSecret: '',
         public: {
             apiBase: '/api'
           }

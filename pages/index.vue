@@ -1,7 +1,10 @@
 <template>
+    <header>
+        <h2 style="color:red;">Portfolio Quentin Brasigliano</h2>
+    </header>
     <div class="mainBox">
         <title>Portfolio</title>
-        <h1>mange tes morts</h1>
+        <a href="https://github.com/orgs/EpitechPromo2027/repositories?type=all">Acces a mon github</a>
     </div>
 </template>
 
