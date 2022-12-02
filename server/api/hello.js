@@ -3,6 +3,7 @@ import axios from 'axios';
 export default defineEventHandler(async (event) => {
 
   const config = useRuntimeConfig()
+  console.log("tok", process.env.token)
 
   const { data } = await axios({
     method: 'get',
