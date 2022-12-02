@@ -4,7 +4,7 @@
     </header>
     <div class="mainBox">
         <title>Portfolio</title>
-        <a href="https://github.com/orgs/EpitechPromo2027/repositories?type=all">Acces a mon github</a>
+        <a href="https://github.com/QBrasigliano/myportfolio">Acces a mon github</a>
     </div>
 </template>
 
